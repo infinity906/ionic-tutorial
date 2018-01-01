@@ -1,0 +1,30 @@
+1: git clone (url of the git repostitor)
+	This command is used to make a clone of our git file in github.com to our system
+
+2. git status
+	This command is used to see if there are any new files in our folder which syched with git repository or 
+is there any new changes in the git repository which is not yet made in my local folder
+
+3. git add "filename.extention"
+	This command is used to add the file which is in my local directory but not yet added to the github repository.
+
+4. git commit -m "message"
+	this command is to cormfirm the file that is to be added at github repository along with the any 
+message specifying the purpose of the file or any changes made to it
+
+5. git push
+	Command to push the contents of github repository to github.com
+
+6. git pull
+	command to pull and new changes made in github repository into your local system.
+
+7. git add -A
+	Add everything into github repository
+
+8. git log (for reverting to previous made changes)
+	Shows the commit logs for our repository
+
+9. git show "enter the commit sequence"
+	to view what changes were made during this commit
+
+10. 
